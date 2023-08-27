@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.4)  27 AUG 2023 14:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2023.8.4)  27 AUG 2023 14:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1373,33 +1373,33 @@ LaTeX Info: Redefining \nameref on input line 59.
 \c@lemma=\count360
 \c@example=\count361
 \c@rem=\count362
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 107.
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 10
-7.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 119.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 11
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/jknapltx/ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-07.
+19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
-07.
+19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
-07.
+19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-07.
+19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
@@ -1423,9 +1423,13 @@ Overfull \hbox (15.79959pt too wide) in paragraph at lines 160--454
 <figs/main2.png, id=27, 462.528pt x 320.1561pt>
 File: figs/main2.png Graphic file (type png)
 <use figs/main2.png>
-Package pdftex.def Info: figs/main2.png  used on input line 116.
+Package pdftex.def Info: figs/main2.png  used on input line 128.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
- (./sec2.tex
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+(./sec2.tex
 Overfull \hbox (9.79959pt too wide) in paragraph at lines 160--486
 [][] 
  []
@@ -1434,58 +1438,60 @@ Overfull \hbox (9.79959pt too wide) in paragraph at lines 160--486
 <figs/main3.png, id=29, 462.528pt x 320.1561pt>
 File: figs/main3.png Graphic file (type png)
 <use figs/main3.png>
-Package pdftex.def Info: figs/main3.png  used on input line 124.
+Package pdftex.def Info: figs/main3.png  used on input line 136.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
 
-Underfull \vbox (badness 5667) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<figs/main16.png, id=30, 462.528pt x 320.1561pt>
-File: figs/main16.png Graphic file (type png)
-<use figs/main16.png>
-Package pdftex.def Info: figs/main16.png  used on input line 129.
-(pdftex.def)             Requested size: 252.0pt x 174.4352pt.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
- <./figs/main2.png> <./figs/main3.png>] (./sec3.tex
+
+ <./figs/main2.png>]
+<figs/main16.png, id=47, 462.528pt x 320.1561pt>
+File: figs/main16.png Graphic file (type png)
+<use figs/main16.png>
+Package pdftex.def Info: figs/main16.png  used on input line 141.
+(pdftex.def)             Requested size: 252.0pt x 174.4352pt.
+ (./sec3.tex
 Overfull \hbox (21.79959pt too wide) in paragraph at lines 160--389
 [][] 
  []
 
 )
-<figs/main18.png, id=50, 462.528pt x 320.1561pt>
+<figs/main18.png, id=48, 462.528pt x 320.1561pt>
 File: figs/main18.png Graphic file (type png)
 <use figs/main18.png>
-Package pdftex.def Info: figs/main18.png  used on input line 136.
+Package pdftex.def Info: figs/main18.png  used on input line 148.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
-<figs/main17.png, id=51, 462.528pt x 320.1561pt>
+<figs/main17.png, id=49, 462.528pt x 320.1561pt>
 File: figs/main17.png Graphic file (type png)
 <use figs/main17.png>
-Package pdftex.def Info: figs/main17.png  used on input line 141.
+Package pdftex.def Info: figs/main17.png  used on input line 153.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-
-(./sec4.tex
+ [2 <./figs/main3.png> <./figs/main16.png>] (./sec4.tex
 Overfull \hbox (9.79959pt too wide) in paragraph at lines 160--336
 [][] 
  []
 
 )
-<figs/main7.png, id=52, 462.528pt x 320.1561pt>
+<figs/main7.png, id=58, 462.528pt x 320.1561pt>
 File: figs/main7.png Graphic file (type png)
 <use figs/main7.png>
-Package pdftex.def Info: figs/main7.png  used on input line 148.
+Package pdftex.def Info: figs/main7.png  used on input line 160.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
-<figs/main10.png, id=53, 462.528pt x 320.1561pt>
+<figs/main10.png, id=59, 462.528pt x 320.1561pt>
 File: figs/main10.png Graphic file (type png)
 <use figs/main10.png>
-Package pdftex.def Info: figs/main10.png  used on input line 153.
+Package pdftex.def Info: figs/main10.png  used on input line 165.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <./figs/main16.png> <./figs/main18.png> <./figs/main17.png>] (./sec5.tex
+
+(./sec5.tex
 ! Misplaced \omit.
 \hhline #1->\omit 
                   \@firstamptrue \@tempswafalse \global \setbox \@ne \HH@box...
@@ -1504,20 +1510,22 @@ Overfull \hbox (10.19958pt too wide) in paragraph at lines 160--385
  []
 
 )
-<figs/main11.png, id=64, 462.528pt x 320.1561pt>
+<figs/main11.png, id=60, 462.528pt x 320.1561pt>
 File: figs/main11.png Graphic file (type png)
 <use figs/main11.png>
-Package pdftex.def Info: figs/main11.png  used on input line 160.
+Package pdftex.def Info: figs/main11.png  used on input line 172.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
-<figs/main14.png, id=65, 462.528pt x 320.1561pt>
+<figs/main14.png, id=61, 462.528pt x 320.1561pt>
 File: figs/main14.png Graphic file (type png)
 <use figs/main14.png>
-Package pdftex.def Info: figs/main14.png  used on input line 165.
+Package pdftex.def Info: figs/main14.png  used on input line 177.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
-<figs/main15.png, id=66, 462.528pt x 320.1561pt>
+ [3 <./figs/main18.png> <./figs/main17.png> <./figs/main7.png> <./figs/main10.p
+ng>]
+<figs/main15.png, id=74, 462.528pt x 320.1561pt>
 File: figs/main15.png Graphic file (type png)
 <use figs/main15.png>
-Package pdftex.def Info: figs/main15.png  used on input line 169.
+Package pdftex.def Info: figs/main15.png  used on input line 181.
 (pdftex.def)             Requested size: 252.0pt x 174.4352pt.
 
 
@@ -1527,30 +1535,30 @@ See the caption package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.170 \caption
+l.182 \caption
               {tangents}
 ? 
 
-Overfull \hbox (11.0pt too wide) in paragraph at lines 169--172
+Overfull \hbox (11.0pt too wide) in paragraph at lines 181--184
 [][]
  []
 
 ! Too many }'s.
 \sf@endfloatbox ...gefalse \outer@nobreak \egroup 
                                                   \color@endbox 
-l.172 \end{figure}
+l.184 \end{figure}
                   
 ? 
 ! Extra \endgroup.
 \color@endgroup ->\endgraf \endgroup 
                                      
-l.172 \end{figure}
+l.184 \end{figure}
                   
 ? 
 ! Too many }'s.
 \color@endbox ->\color@endgroup \egroup 
                                         
-l.172 \end{figure}
+l.184 \end{figure}
                   
 ? 
 
@@ -1560,17 +1568,18 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.172 \end{figure}
+l.184 \end{figure}
                   
 ? 
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.172 \end{figure}
+l.184 \end{figure}
                   
 ? 
-[3 <./figs/main7.png> <./figs/main10.png> <./figs/main11.png> <./figs/main14.pn
-g> <./figs/main15.png>] (./main.aux)
+[4
+
+ <./figs/main11.png> <./figs/main14.png> <./figs/main15.png>] (./main.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1578,13 +1587,13 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 654BB885AA8E94C255642DD69CE6C058;506.
  ) 
 Here is how much of TeX's memory you used:
- 44587 strings out of 480171
- 1027899 string characters out of 5894490
- 1593014 words of memory out of 5000000
+ 44592 strings out of 480171
+ 1027927 string characters out of 5894490
+ 1558014 words of memory out of 5000000
  61790 multiletter control sequences out of 15000+600000
- 533687 words of font info for 158 fonts, out of 8000000 for 9000
+ 536319 words of font info for 162 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
- 100i,17n,104p,408b,353s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 100i,17n,104p,408b,356s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
 e/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dis
 t/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type
@@ -1594,10 +1603,10 @@ fb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/sh
 are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/t
 ype1/urw/times/utmri8a.pfb>
-Output written on main.pdf (3 pages, 280112 bytes).
+Output written on main.pdf (4 pages, 282540 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
- 82 compressed objects within 1 object stream
- 19 named destinations out of 1000 (max. 500000)
+ 130 PDF objects out of 1000 (max. 8388607)
+ 85 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
  103 words of extra memory for PDF output out of 10000 (max. 10000000)
 
